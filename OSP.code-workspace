@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "wlist_all",
+			"path": "../wlist_all"
+		},
+		{
+			"name": "OS_Prog1",
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stdbool.h": "c"
+		}
+	}
+}

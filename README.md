@@ -1,14 +1,8 @@
-# OS_Prog1
-For my assignment I chose to implement Problem A: The Producer-Consumer Problem and Problem D: The Sleeping Barbers Problem.
+# OSP_A1
 
 # How to run:
-## Problem A;
-1. Type into the console "make prodcon"
-2. This will generate an executable named simulation
-3. Type into the console "./simulation" to run the executable
-
-## Problem D:
-1. Type into the console "make barber"
+## Problem 1
+1. Type into the console "Ass1"
 2. This will generate an executable named simulation
 3. Type into the console "./simulation" to run the executable
 
